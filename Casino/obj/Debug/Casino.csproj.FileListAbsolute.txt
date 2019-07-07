@@ -1,0 +1,33 @@
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Interop.WMPLib.dll
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.csproj.ResolveComReference.cache
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.Form1.resources
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.LuckyRandom.resources
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.LuckyTree.resources
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.Shop.resources
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.YourRandom.resources
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.Properties.Resources.resources
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.SlotMachine.resources
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.csproj.GenerateResource.cache
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Interop.WMPLib.dll
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.csproj.ResolveComReference.cache
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.EndForm.resources
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.Form1.resources
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.LuckyRandom.resources
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.LuckyTree.resources
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.Shop.resources
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.YourRandom.resources
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.Properties.Resources.resources
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.SlotMachine.resources
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.csproj.GenerateResource.cache
+C:\Users\Krause\Desktop\Casino\Music\Using\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino.EndForm.resources
+C:\Users\Krause\source\repos\Casino\Casino\bin\Debug\Casino Pretty Luck.exe.config
+C:\Users\Krause\source\repos\Casino\Casino\bin\Debug\Casino Pretty Luck.exe
+C:\Users\Krause\source\repos\Casino\Casino\bin\Debug\Casino Pretty Luck.pdb
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino Pretty Luck.exe
+C:\Users\Krause\source\repos\Casino\Casino\obj\Debug\Casino Pretty Luck.pdb
